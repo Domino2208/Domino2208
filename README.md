@@ -11,6 +11,6 @@
 
   <img height="64px" width="64px" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" />
 
-  <img height="64px" width="64px" alt="MySQL" src="https://pngimg.com/d/mysql_PNG23.png" />
+  <img height="64px" width="64px" alt="MySQL" src="https://pngimg.com/d/mysql_PNG23.png.svg" />
   
 </div>

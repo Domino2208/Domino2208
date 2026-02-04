@@ -5,8 +5,8 @@
 <div align="center">
   <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/c9bdbc5d-6ca5-40d9-8d5f-ef9ed767f75a" />
 
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d4a2fa59-3568-420b-a0c6-224936e445a9" />
+
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />

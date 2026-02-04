@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/c9bdbc5d-6ca5-40d9-8d5f-ef9ed767f75a" />
+
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
